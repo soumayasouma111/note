@@ -46,6 +46,7 @@ do{
 
     case 2:
         printf("veuiller entrer les notes pour la classe 2:\n");
+            c=0;
         for (i = 0; i < 15; i++)
         {
             printf("Note[%d]= ", i);
